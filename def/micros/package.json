@@ -1,0 +1,26 @@
+{
+  "name": "micros",
+  "version": "1.0.0",
+  "description": "microservicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holgergt19/microservicios.git"
+  },
+  "keywords": [
+    "microservicio"
+  ],
+  "author": "Holger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holgergt19/microservicios/issues"
+  },
+  "homepage": "https://github.com/holgergt19/microservicios#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
